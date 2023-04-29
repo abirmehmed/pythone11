@@ -1,6 +1,7 @@
 # pythone11
-```
+````
 python
+
 import random
 
 def RandI():
@@ -36,6 +37,6 @@ e = [0]
 x = Rand(p,q,r,s,a,b,c,d,e)
 print(x)
 print(p[0], q[0], r[0], s[0], a[0], b[0], c[0], d[0], e[0])
-```
+````
 
 ## use this python code to genatate multiple random numbers .
